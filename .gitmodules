@@ -1,0 +1,3 @@
+[submodule "cv_py/stop_sign_proj"]
+	path = cv_py/stop_sign_proj
+	url = https://github.com/jrosilam/stop_sign_proj.git
