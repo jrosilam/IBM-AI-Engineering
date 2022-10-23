@@ -1,3 +1,6 @@
 [submodule "cv_py/stop_sign_proj"]
 	path = cv_py/stop_sign_proj
 	url = https://github.com/jrosilam/stop_sign_proj.git
+[submodule "ml_py"]
+	path = ml_py
+	url = https://github.com/jrosilam/intro_to_machine_learning.git
