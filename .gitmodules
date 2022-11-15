@@ -4,3 +4,6 @@
 [submodule "ml_py"]
 	path = ml_py
 	url = https://github.com/jrosilam/intro_to_machine_learning.git
+[submodule "capstoneAI_py"]
+	path = capstoneAI_py
+	url = git@github.com:jrosilam/Concrete_Crack_Capstone_Proj.git
